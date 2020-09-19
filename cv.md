@@ -45,6 +45,3 @@ Certificates
 
 ## English
 Current level: A2.
-
-
-ba284cf
